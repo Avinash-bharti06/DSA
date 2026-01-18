@@ -1,22 +1,13 @@
-# DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my Data Structures & Algorithms solutions solved on LeetCode and automatically synced to GitHub using LeetHub.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0561-array-partition) |
-## Greedy
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0561-array-partition) |
-## Sorting
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0561-array-partition) |
-## Counting Sort
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0561-array-partition) |
-<!---LeetCode Topics End-->
+🛠️ Tech Stack
+
+Language: C++
+
+Platform: LeetCode
+
+Tools: Git, GitHub, LeetHub
+
+✅ Progress:-
+
+📈 More problems added regularly
