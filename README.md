@@ -41,6 +41,7 @@ Tools: Git, GitHub, LeetHub
 | [0268-missing-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
