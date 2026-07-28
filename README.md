@@ -32,6 +32,7 @@ Tools: Git, GitHub, LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
@@ -134,6 +136,7 @@ Tools: Git, GitHub, LeetHub
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -153,6 +156,7 @@ Tools: Git, GitHub, LeetHub
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0268-missing-number) |
@@ -460,6 +464,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
