@@ -35,6 +35,7 @@ Tools: Git, GitHub, LeetHub
 | [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -195,6 +196,7 @@ Tools: Git, GitHub, LeetHub
 | [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0263-ugly-number) |
@@ -291,6 +293,7 @@ Tools: Git, GitHub, LeetHub
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
