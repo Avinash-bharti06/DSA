@@ -39,6 +39,7 @@ Tools: Git, GitHub, LeetHub
 | [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0283-move-zeroes) |
@@ -113,6 +114,7 @@ Tools: Git, GitHub, LeetHub
 | [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0324-wiggle-sort-ii) |
@@ -140,6 +142,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -161,6 +164,7 @@ Tools: Git, GitHub, LeetHub
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0290-word-pattern) |
