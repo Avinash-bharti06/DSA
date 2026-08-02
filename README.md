@@ -22,6 +22,7 @@ Tools: Git, GitHub, LeetHub
 | [0014-longest-common-prefix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
@@ -298,6 +299,7 @@ Tools: Git, GitHub, LeetHub
 | [0011-container-with-most-water](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0189-rotate-array) |
