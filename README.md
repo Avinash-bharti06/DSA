@@ -65,6 +65,7 @@ Tools: Git, GitHub, LeetHub
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -359,6 +360,7 @@ Tools: Git, GitHub, LeetHub
 | [0441-arranging-coins](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -371,6 +373,7 @@ Tools: Git, GitHub, LeetHub
 | [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
