@@ -54,6 +54,7 @@ Tools: Git, GitHub, LeetHub
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
@@ -374,6 +375,7 @@ Tools: Git, GitHub, LeetHub
 | [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -447,6 +449,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
